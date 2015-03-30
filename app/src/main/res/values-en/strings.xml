@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto" >
+
+    <!-- en_EN -->
+    <string name="app_credits">Developed by Mário Valney</string>
+
+    <string name="title_activity_list">Ambassadors</string>
+    <string name="title_activity_ambassador">Ambassador</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="action_ambassadors_list">Ambassadors</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
+
+    <string name="settings_gsa_video">Watch our video!</string>
+    <string name="settings_know_gsa">Know the Program</string>
+
+    <string name="share_to">Share with</string>
+
+    <string name="share_message">
+        Do you already know Google Embassy in <xliff:g id="city">%1$s</xliff:g>?
+        You just need to look for <xliff:g id="embassador">%2$s</xliff:g> student at
+        <xliff:g id="university">%3$s</xliff:g>. #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_default">
+        You already know the Google Student Ambassador Program?
+        #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_title">Share with...</string>
+
+    <string name="trying_connect_message">Receiving data from server, wait please.</string>
+    <string name="sucesso_conexao">Data actualized successful!</string>
+    <string name="erro_conexao">We could not connect with server.</string>
+    <string name="erro_json">
+        There was a problem receiving data from the server. Please try again later.
+    </string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ListView Layouts -->
+    <style name="ListAmbassadors">
+        <item name="android:choiceMode">singleChoice</item>
+    </style>
+
+    <!-- Textos -->
+    <style name="h1" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/title</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="description" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/description</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="detail_title" parent="@style/h1">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="detail_description" parent="@style/description">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="detail_title_white" parent="@style/detail_title">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="detail_description_white" parent="@style/detail_description">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="item_title" parent="@style/h1">
+        <item name="android:textColor">@color/title_to_click</item>
+    </style>
+
+    <style name="item_descripion" parent="@style/description">
+        <item name="android:textColor">@color/description_to_click</item>
+    </style>
+</resources>

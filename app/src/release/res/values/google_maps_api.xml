@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_maps_key_instructions" templateMergeStrategy="replace" translatable="false">
+        <!-- C6:FE:D3:BC:52:98:CF:21:08:85:0F:44:BD:1D:A8:EE:67:2E:AA:0E;com.mariovalney.gsamaps -->
+    </string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBq9nmuqPn9pCaBMPx_uLf3QeP4D8ryZZw
+    </string>
+</resources>

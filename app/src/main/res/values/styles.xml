@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBar.Solid.GSAMaps</item>
+    </style>
+
+    <!-- ActionBar style -->
+    <style name="ActionBar.Solid.GSAMaps"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/azul_escuro</item>
+    </style>
+
+    <!-- ListView Layouts -->
+    <style name="ListAmbassadors">
+    </style>
+
+    <!-- Textos -->
+    <style name="h1" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/title</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="description" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/description</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="h1_white" parent="@style/h1">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="description_white" parent="@style/description">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="detail_title" parent="@style/h1"></style>
+
+    <style name="detail_description" parent="@style/description"></style>
+
+    <style name="detail_title_white" parent="@style/h1_white"></style>
+
+    <style name="detail_description_white" parent="@style/description_white"></style>
+
+    <style name="item_title" parent="@style/h1">
+        <item name="android:textColor">@color/title_to_click</item>
+    </style>
+
+    <style name="item_descripion" parent="@style/description">
+        <item name="android:textColor">@color/description_to_click</item>
+    </style>
+
+</resources>

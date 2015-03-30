@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto" >
+
+    <!-- Please not change this -->
+    <string name="app_name" translatable="false">GSAMaps</string>
+    <string name="app_version" translatable="false">1.0</string>
+    <string name="title_activity_main" translatable="false">GSAMaps</string>
+    <string name="url_gsa_program" translatable="false">
+        https://www.google.com/edu/programs/student-ambassador-program/
+    </string>
+    <string name="url_gsa_video" translatable="false">
+        https://www.youtube.com/watch?v=oclJqm5FwnE
+    </string>
+    <string name="sync_account_type" translatable="false">gsamaps.mariovalney.com</string>
+    <string name="content_authority" translatable="false">com.mariovalney.gsamaps.provider</string>
+
+    <!-- pt_BR -->
+    <string name="app_credits">Desenvolvido por Mário Valney</string>
+    <string name="title_activity_list">Embaixadores</string>
+    <string name="title_activity_ambassador">Embaixador</string>
+    <string name="title_activity_about">Sobre</string>
+
+    <string name="action_ambassadors_list">Embaixadores</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_about">Sobre</string>
+
+    <string name="settings_gsa_video">Veja nosso vídeo!</string>
+    <string name="settings_know_gsa">Conheça o Programa</string>
+
+    <string name="share_to">Compartilhe com</string>
+
+    <string name="share_message">
+        Você já conhece a Embaixada do Google em <xliff:g id="city">%1$s</xliff:g>?
+        Você só precisa procurar o(a) <xliff:g id="embassador">%2$s</xliff:g> que estuda no(a)
+        <xliff:g id="university">%3$s</xliff:g>. #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_default">
+        Você já conhece o Google Student Ambassador Program?
+        #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_title">Compartilhe com...</string>
+
+    <string name="trying_connect_message">Recebendo dados do servidor, aguarde por favor.</string>
+    <string name="sucesso_conexao">Dados atualizados com sucesso!</string>
+    <string name="erro_conexao">Não foi possível conectar com o servidor.</string>
+    <string name="erro_json">
+        Houve um problema ao receber os dados do servidor. Tente novamente mais tarde.
+    </string>
+
+</resources>

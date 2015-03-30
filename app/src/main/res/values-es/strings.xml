@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto" >
+
+    <!-- es_ES -->
+    <string name="app_credits">Desarrollado por Mário Valney</string>
+
+    <string name="title_activity_list">Embajadores</string>
+    <string name="title_activity_ambassador">Embajador</string>
+    <string name="title_activity_about">Acerca</string>
+
+    <string name="action_ambassadors_list">Embajadores</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_about">Acerca</string>
+
+    <string name="settings_gsa_video">Vea nuestro video!</string>
+    <string name="settings_know_gsa">Más información sobre el Programa</string>
+
+    <string name="share_to">Compartir con</string>
+
+    <string name="share_message">
+        Usted ya sabe Embajada Google en <xliff:g id="city">%1$s</xliff:g>?
+        Sólo tiene que buscar <xliff:g id="embassador">%2$s</xliff:g> estudiante de el(la)
+        <xliff:g id="university">%3$s</xliff:g>. #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_default">
+        Usted ya sabe el Google Student Ambassador Program?
+        #GoogleStudentAmbassador #GSA
+    </string>
+
+    <string name="share_message_title">Compartir con...</string>
+
+    <string name="trying_connect_message">Recepción de datos desde el servidor, por favor espere.</string>
+    <string name="sucesso_conexao">Datos actualizados con éxito!</string>
+    <string name="erro_conexao">No se pudo conectar con el servidor.</string>
+    <string name="erro_json">
+        Hubo un problema al recibir datos del servidor. Inténtalo de nuevo más tarde.
+    </string>
+
+</resources>
